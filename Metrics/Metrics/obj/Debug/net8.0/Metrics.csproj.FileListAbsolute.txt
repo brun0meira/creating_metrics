@@ -1,0 +1,17 @@
+/home/bruno/RiderProjects/Metrics/Metrics/bin/Debug/net8.0/Metrics
+/home/bruno/RiderProjects/Metrics/Metrics/bin/Debug/net8.0/Metrics.deps.json
+/home/bruno/RiderProjects/Metrics/Metrics/bin/Debug/net8.0/Metrics.runtimeconfig.json
+/home/bruno/RiderProjects/Metrics/Metrics/bin/Debug/net8.0/Metrics.dll
+/home/bruno/RiderProjects/Metrics/Metrics/bin/Debug/net8.0/Metrics.pdb
+/home/bruno/RiderProjects/Metrics/Metrics/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/Metrics.csproj.AssemblyReference.cache
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/Metrics.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/Metrics.AssemblyInfoInputs.cache
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/Metrics.AssemblyInfo.cs
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/Metrics.csproj.CoreCompileInputs.cache
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/Metrics.csproj.CopyComplete
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/Metrics.dll
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/refint/Metrics.dll
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/Metrics.pdb
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/Metrics.genruntimeconfig.cache
+/home/bruno/RiderProjects/Metrics/Metrics/obj/Debug/net8.0/ref/Metrics.dll

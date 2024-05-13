@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Injection.props" />
+</Project>
