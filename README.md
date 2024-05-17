@@ -120,8 +120,6 @@ Conseguimos ver as métricas sendo exibidas, mostrando a quantidade de chapéus 
 
 As métricas são fundamentais para monitorar o desempenho e comportamento de aplicações .NET, permitindo identificar problemas e otimizar a performance. A utilização das APIs System.Diagnostics.Metrics e da ferramenta dotnet-counters facilita a criação, registro e visualização de métricas personalizadas, contribuindo para uma melhor compreensão e análise do sistema em execução.
 
-
-
 # 2. Relatório sobre Métricas em .NET - Medidor por meio da injeção de dependência
 
 Esse relatório é sobre a implementação contida na pasta `Injection` na raiz do projeto.
@@ -129,7 +127,6 @@ Esse relatório é sobre a implementação contida na pasta `Injection` na raiz 
 ## Introdução
 
 Este segundo relatório aborda a implementação de métricas personalizadas em aplicações .NET, utilizando as APIs `System.Diagnostics.Metrics`. Mas diferente do primeiro esse é focando na coleta através da Injeção de Dependência (DI).
-
 
 ## Tecnologias Utilizadas
 
@@ -222,7 +219,7 @@ public class HatCoMetrics
 
 ### 6. Teste e Validação - Monitorar as métricas
 
-Teste do funcionamento das métricas personalizadas e validação se estão capturando os dados corretamente. Certifique-se de que as métricas estão sendo registradas conforme o esperado e de que estão disponíveis para análise.
+Teste do funcionamento das métricas personalizadas e validação se estão capturando os dados corretamente.
 
 ![run_webapi_app](./assets/run_webapi.png)
 
